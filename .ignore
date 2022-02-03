@@ -1,5 +1,1 @@
-*/bin/*
-*/.git/*
-*/.settings/*
-*/.classpath
-*/.project
+*.class
